@@ -6,6 +6,8 @@ public class test_class {
 		
 		
 		System.out.println(" I am practising GitHub");
+		System.out.println(" GitHub");
+		
 
 	}
 
